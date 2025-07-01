@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  记录访问过我主页的人数 ✨📈 欢迎来访！
+  You are our 💚 <strong>precious visitor</strong>. Thanks for stopping by! 💖💻✨
 </p>
 
 
