@@ -4,6 +4,20 @@
 </p>
 
 ---
+<h1 align="center">Hi 🖐 I'm Naikai-WJYD Team!</h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+our+GitHub+Project!;Explore+Tianjin+Culture+Digitally!" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://count.getloli.com/get/@xjtatnku.Naikai-WJYD-project?theme=black" alt="visitor badge"/>
+</p>
+
+<p align="center">
+  You are our 💚 <strong>precious visitor</strong>. Thanks for stopping by! 💖💻✨
+</p>
+
+---
 
 ### 👨‍🎓 About Me
 - 📚 I’m a student at **Nankai University** with **Double degree in information security and law**
