@@ -69,7 +69,7 @@
 - Wechat：17371948752
 - Email：📩 [2691093659@qq.com](mailto:2691093659@qq.com)
 - Email：📩 [2313226@mail.nankai.edu.cn](mailto:2313226@mail.nankai.edu.cn)
-- GitHub 项目主页：[Naikai-WJYD-project](https://github.com/xjtatnku/)
+- GitHub 主页：[xjtatnku](https://github.com/xjtatnku)
 
 ---
 
