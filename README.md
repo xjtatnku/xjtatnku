@@ -49,19 +49,9 @@
 
 ✅ 法学
 
-法理学（Jurisprudence）
-
-宪法学（Constitution）
-
-刑法与刑事诉讼法（Criminal law & Criminal procedure law）
-
-民法与民事诉讼法（Civil law & Civil procedure law）
-
 ---
 ### 🎯 My Personal Interests
 💻 编程与开源：喜欢探索 AI、NLP、前端技术，热爱参与开源项目。
-
-🎨 设计创意：对交互设计与可视化有浓厚兴趣，尝试过 UI/UX 设计。
 
 📖 阅读写作：喜欢撰写博客、技术文档与项目总结。
 
@@ -69,12 +59,11 @@
 
 🧠 兴趣扩展：学习数字人、深度伪造、AI语音等跨学科技术。
 
-📚 法学理论研究与文工交叉实践，尤其关注科技法学与刑法问题
+📚 法学理论研究与文工交叉实践
 
 ---
 ### 🏆 Achievements
 - 🥇 Nankai **国家级大学生创新训练计划**
-- 🥈 五四优秀团小组
 - 📂 Projects: 计算机组成原理实验，RISCV探索，文化数字人平台，大模型部署与训练
 
 ---
