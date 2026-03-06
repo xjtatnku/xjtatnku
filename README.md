@@ -27,29 +27,6 @@
 - 📘 Recent Projects: Naikai-WJYD, Naikai-Chinasoft
 
 ---
-
-### 📚 Courses I've Taken
-✅ 计算机基础类
-
-数据结构与算法（Data Structures and Algorithms）
-
-数据库系统原理（Database Systems）
-
-计算机组成原理（Computer Organization）
-
-汇编语言与逆向分析（Assembly language and reverse analysis）
-
-密码学（Cryptology）
-
-软件安全（Software security）
-
-✅ 人工智能方向
-
-人工智能导论（Introduction to artificial intelligence）
-
-✅ 法学
-
----
 ### 🎯 My Personal Interests
 💻 编程与开源：喜欢探索 AI、NLP、前端技术，热爱参与开源项目。
 
@@ -59,11 +36,12 @@
 
 🧠 兴趣扩展：学习数字人、深度伪造、AI语音等跨学科技术。
 
-📚 法学理论研究与文工交叉实践
+📚 法学理论研究与交叉实践
 
 ---
 ### 🏆 Achievements
 - 🥇 Nankai **国家级大学生创新训练计划**
+- 2025 创新奖学金
 - 📂 Projects: 计算机组成原理实验，RISCV探索，文化数字人平台，大模型部署与训练
 
 ---
