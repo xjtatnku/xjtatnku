@@ -23,26 +23,21 @@
 ### 👨‍🎓 About Me
 - 📚 I’m a student at **Nankai University** with **Double degree in information security and law**
 - 🤖 Focused on combining AI with culture and digitalization
-- 💻 Currently exploring: `Cryptology`, `Web`, `Python`, `Agent development`, `LoRA`, `Law`
-- 📘 Recent Projects: Naikai-WJYD, Naikai-Chinasoft
 
 ---
 ### 🎯 My Personal Interests
-💻 编程与开源：喜欢探索 AI、NLP、前端技术，热爱参与开源项目。
-
-📖 阅读写作：喜欢撰写博客、技术文档与项目总结。
+💻 编程与开源：喜欢探索 AI、Agent，热爱参与开源项目。
 
 🗣️ 方言文化：参与数字非遗项目，致力于方言语料库建设与语音合成。
 
-🧠 兴趣扩展：学习数字人、深度伪造、AI语音等跨学科技术。
+🧠 兴趣扩展：学习数字人等跨学科技术。
 
 📚 法学理论研究与交叉实践
 
 ---
 ### 🏆 Achievements
-- 🥇 Nankai **国家级大学生创新训练计划**
-- 2025 创新奖学金
-- 📂 Projects: 计算机组成原理实验，RISCV探索，文化数字人平台，大模型部署与训练
+- 🥇 Nankai **国家级大学生创新训练计划 校级三等奖**
+- 2025 南开创新奖学金
 
 ---
 
